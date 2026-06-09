@@ -1,0 +1,9 @@
+- OpenClaw é o coordenador/orquestrador.
+- Hermes/Codex é o executor técnico.
+- Raptor mini é o editor/refatorador de código.
+- Supercérebro é a fonte única da verdade.
+- Nenhum agente deve inventar informação.
+- Antes de responder sobre um projeto, ler memory/global.md e o arquivo correspondente em projects/.
+- Toda decisão importante deve ser registrada em logs/diario.md.
+- Nunca misturar contextos de clientes/projetos.
+- Nunca apagar arquivos sem autorização explícita.
