@@ -1,0 +1,91 @@
+{
+  "created": {
+    "data": {
+      "id": 1,
+      "accountId": 1,
+      "name": "Laticinios - 7 dias gratis - Grupo 1 - 2026-06-02",
+      "description": "Campanha controlada de 30 leads/dia. Abordagem consultiva, sem mencionar Newvac.",
+      "status": "draft",
+      "sourceType": "csv",
+      "sourceConfig": {
+        "group": 1,
+        "limit": 30,
+        "origin": "supabase_clients",
+        "identity": {
+          "senderEmail": "richard.fullweb@gmail.com",
+          "whatsappLabel": "Rafael",
+          "whatsappNumber": "+55 11 95558-5460",
+          "whatsappInboxId": 194
+        },
+        "businessWindow": {
+          "end": "18:00",
+          "start": "08:00",
+          "timezone": "America/Sao_Paulo"
+        }
+      },
+      "messages": [
+        {
+          "type": "text",
+          "content": "Olá, tudo bem? Sou Richard Portela. Estou oferecendo para alguns laticínios um teste de 7 dias do ChatHook para organizar pedidos, clientes, cobrança e recompra pelo WhatsApp. A ideia é simples: separar pedidos, entregas, cobranças e recompra em um funil. Posso te mandar um exemplo prático?"
+        }
+      ],
+      "inboxIds": [
+        194
+      ],
+      "rotationMode": "round_robin",
+      "inboxWeights": null,
+      "delayMinSeconds": 180,
+      "delayMaxSeconds": 420,
+      "pauseEveryN": 10,
+      "pauseForSeconds": 1800,
+      "windowStart": "08:00",
+      "windowEnd": "18:00",
+      "allowedDays": [
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri"
+      ],
+      "maxPerHourPerInbox": null,
+      "simulateTyping": false,
+      "verifyNumbers": false,
+      "enableSpintax": false,
+      "enableLinkTracking": false,
+      "linkTrackingDomain": null,
+      "followUpEnabled": true,
+      "followUpConfig": {
+        "messages": [
+          "Passando só para reforçar: posso te mostrar um exemplo simples de como organizar os pedidos do laticínio pelo WhatsApp em 7 dias sem custo?"
+        ],
+        "waitHours": 24,
+        "maxAttempts": 1
+      },
+      "abTestEnabled": false,
+      "abTestConfig": null,
+      "scheduledAt": null,
+      "startedAt": null,
+      "completedAt": null,
+      "totalContacts": 0,
+      "sentCount": 0,
+      "failedCount": 0,
+      "skippedCount": 0,
+      "clickCount": 0,
+      "replyCount": 0,
+      "apiToken": "95b7bd0786d05b46d4c9008b:d213660c5bb963d83578afad58ffd7de:10cc2ff8647de45653513b93b51fc50c1776b7bdf945d0bd",
+      "isRecurring": false,
+      "recurringIntervalDays": null,
+      "recurringEndDate": null,
+      "recurringNextRun": null,
+      "recurringRunCount": 0,
+      "createdBy": 1,
+      "createdAt": "2026-06-02T17:02:14.007Z",
+      "updatedAt": "2026-06-02T17:02:14.007Z"
+    }
+  },
+  "imported": {
+    "imported": 30,
+    "skipped": 0,
+    "total": 30
+  }
+}

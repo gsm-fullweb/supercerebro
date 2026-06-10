@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>Operator Panel - Change Requests</title></head>
+<body>
+<h1>Operator Panel (STAGING)</h1>
+<div id="list"></div>
+<script>
+async function load(){
+  const res = await fetch('/api/change_requests');
+  const data = await res.json();
+  const div = document.getElementById('list');
+  if(!data.length) { div.innerHTML='<p>No pending change_requests.</p>'; return }
+  div.innerHTML = '';
+  data.forEach(cr=>{
+    const el = document.createElement('div');
+    el.style.border='1px solid #ccc'; el.style.padding='8px'; el.style.margin='8px';
+    el.innerHTML = `<b>ID:</b> ${cr.id} <br><b>site:</b> ${cr.site_slug} <br><b>action:</b> ${cr.action} <br><b>payload:</b> <pre>${JSON.stringify(cr.payload)}</pre> <b>confidence:</b> ${cr.confidence} <br> <b>requiresApproval:</b> ${cr.requires_approval} <br> <b>status:</b> ${cr.status} <br> <b>created_at:</b> ${cr.created_at} <br>`;
+    const approve = document.createElement('button'); approve.textContent='Approve'; approve.onclick = async ()=>{ await fetch(`/api/change_requests/${cr.id}/approve`,{method:'POST'}); load(); };
+    const reject = document.createElement('button'); reject.textContent='Reject'; reject.onclick = async ()=>{ await fetch(`/api/change_requests/${cr.id}/reject`,{method:'POST'}); load(); };
+    el.appendChild(approve); el.appendChild(reject);
+    div.appendChild(el);
+  });
+}
+load();
+</script>
+</body>
+</html>

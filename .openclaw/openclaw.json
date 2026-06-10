@@ -1,0 +1,13 @@
+{
+  "tools": {
+    "exec": {
+      "host": "gateway",
+      "security": "full",
+      "ask": "off"
+    }
+  },
+  "meta": {
+    "lastTouchedVersion": "2026.5.28",
+    "lastTouchedAt": "2026-06-10T01:31:35.818Z"
+  }
+}

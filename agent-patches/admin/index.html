@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>SmartCompany Admin - Chat</title>
+  <link rel="stylesheet" href="/admin/style.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>SmartCompany - Admin Chat (MVP)</h1>
+      <div id="auth">
+        <input id="email" placeholder="seu@exemplo.com" />
+        <button id="btn-signin">Enviar magic link</button>
+        <span id="auth-status"></span>
+      </div>
+    </header>
+
+    <main>
+      <section id="panel" style="display:none">
+        <div id="site-info">Site: <b>smartcompany</b></div>
+
+        <div id="chat-area">
+          <div id="history"></div>
+          <div id="controls">
+            <textarea id="message" placeholder="Escreva aqui: 'Troque o WhatsApp do rodap\u00e9 para 11 99999-9999'" rows="3"></textarea>
+            <button id="send">Enviar</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <small>MVP Admin - work in progress. Use STAGING Supabase keys.</small>
+    </footer>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js/dist/umd/supabase.min.js"></script>
+  <script src="/admin/app.js"></script>
+</body>
+</html>

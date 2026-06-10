@@ -1,0 +1,84 @@
+name: chathook-staging
+
+services:
+  frontend:
+    image: nginx:1.27-alpine
+    container_name: chathook-staging-frontend
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:18080:80"
+    volumes:
+      - ./runtime/frontend-html:/usr/share/nginx/html:ro
+      - ./frontend/default.conf:/etc/nginx/conf.d/default.conf:ro
+    networks:
+      - chathook-staging-net
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: chathook-staging-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: chathook_staging
+      POSTGRES_USER: chathook
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes:
+      - chathook-staging-postgres:/var/lib/postgresql/data
+    networks:
+      - chathook-staging-net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U chathook -d chathook_staging"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: chathook-staging-redis
+    restart: unless-stopped
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes:
+      - chathook-staging-redis:/data
+    networks:
+      - chathook-staging-net
+
+  backend:
+    profiles: ["backend"]
+    build:
+      context: ./backend
+    container_name: chathook-staging-backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    env_file:
+      - .env
+    environment:
+      NODE_ENV: staging
+      PORT: 3000
+      DATABASE_URL: postgresql://chathook:${POSTGRES_PASSWORD}@postgres:5432/chathook_staging?schema=public
+      REDIS_HOST: redis
+      REDIS_PORT: 6379
+      CORS_ORIGIN: http://127.0.0.1:18080
+      KANBANCW_DOMAIN: staging.local
+      CHATWOOT_DOMAIN: disabled.local
+      UPLOAD_DIR: /app/uploads
+    volumes:
+      - ./runtime/backend-dist:/app/dist:ro
+      - ./runtime/prisma:/app/prisma:ro
+      - chathook-staging-uploads:/app/uploads
+    ports:
+      - "127.0.0.1:13000:3000"
+    networks:
+      - chathook-staging-net
+
+networks:
+  chathook-staging-net:
+    name: chathook-staging-net
+    driver: bridge
+
+volumes:
+  chathook-staging-postgres:
+  chathook-staging-redis:
+  chathook-staging-uploads:

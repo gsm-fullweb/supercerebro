@@ -1,0 +1,132 @@
+# Prospeccao laticinios - grupos de 30
+
+Critério: clientes com telefone, ordenados por ultima compra recente, valor e potencial. Abordagem consultiva, sem mencionar Newvac.
+
+## Grupo 1 - leads 1 a 30
+- 1. BASLEITE | ITAPETININGA/SP | tel: 15 - 3279-4004 | valor: R$ 19585 | ultima compra: 2025-11-21 | potencial: DEMAIS
+- 2. GM FLEX EMBALAGENS | SAO JOSE DO RIO PRETO/SP | tel: 17 - 3225-5046 | valor: R$ 298847.51 | ultima compra: 2025-11-19 | potencial: MICRO EMPRESA
+- 3. LATICINIOS SABOR DO CAMPO LTDA | POTE/MG | tel: 33 - 99949-1452 | valor: R$ 29700 | ultima compra: 2025-11-19 | potencial: DEMAIS
+- 4. ARALAT | ARAGUARI/MG | tel: 34 - 3249-5250 | valor: R$ 58750 | ultima compra: 2025-11-18 | potencial: EMPRESA DE PEQUENO PORTE
+- 5. RODRIGO MARCHI BRASIL E OUTRA | EMILIANOPOLIS/SP | tel: (18) 3222-8246 | valor: R$ 45260 | ultima compra: 2025-11-18 | potencial: DEMAIS
+- 6. LATICINIOS DA COSTA E PELISSARI LTDA | MOGI GUAÇU/SP | tel: 19 - 3831-4085 | valor: R$ 34457 | ultima compra: 2025-11-18 | potencial: DEMAIS
+- 7. COMERCIAL ANTINHAS LTDA | PETROLANDIA/SC | tel: 47 - 3533-5816 | valor: R$ 33816.31 | ultima compra: 2025-11-18 | potencial: EMPRESA DE PEQUENO PORTE
+- 8. COMOV | ALTA FLORESTA/MT | tel: 66 - 99248-5319 | valor: R$ 24113.8 | ultima compra: 2025-11-18 | potencial: DEMAIS
+- 9. BELO MINAS | SAO SEBASTIAO DA BELA VISTA/MG | tel: 35 - 3424-1443 | valor: R$ 835893.97 | ultima compra: 2025-11-17 | potencial: EMPRESA DE PEQUENO PORTE
+- 10. LATICINIOS MONTES BELOS | SAO LUIS DE MONTES BELOS/GO | tel: 64 - 3671-1129 | valor: R$ 41247.4 | ultima compra: 2025-11-17 | potencial: DEMAIS
+- 11. CRJ DISTRIBUICAO DE CARNES E DERIVADOS | BRASILIA/DF | tel: 61 - 3975-0538 | valor: R$ 6018.04 | ultima compra: 2025-11-17 | potencial: MICRO EMPRESA
+- 12. CERRADO SELECT ALIMENTOS LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 128913.3 | ultima compra: 2025-11-14 | potencial: MEDIO
+- 13. COMERCIAL CAIXETA | PATOS DE MINAS/MG | tel: 34 - 3823-3854 | valor: R$ 64165 | ultima compra: 2025-11-13 | potencial: MEDIO
+- 14. COOPERVAP | PARACATU/MG | tel: 38 - 3679-8912 | valor: R$ 85720 | ultima compra: 2025-11-11 | potencial: DEMAIS
+- 15. LATICINIO CASSIMIRO | ITANHOMI/MG | tel: 33 - 3231-1467 | valor: R$ 47104.8 | ultima compra: 2025-11-11 | potencial: MICRO EMPRESA
+- 16. SILMAR | ITANHOMI/MG | tel: 33 - 99962-3672 | valor: R$ 31918.06 | ultima compra: 2025-11-11 | potencial: MICRO EMPRESA
+- 17. FRIMAIS | MUNHOZ DE MELO/PR | tel: 44 - 99820-8584 | valor: R$ 119052.05 | ultima compra: 2025-11-07 | potencial: EMPRESA DE PEQUENO PORTE
+- 18. SELAMOLD SELANTES | PASSO FUNDO/RS | tel: 54 - 99269-8414 | valor: R$ 34149.94 | ultima compra: 2025-11-04 | potencial: MICRO EMPRESA
+- 19. LATICINIOS ITALY | RONDINHA/RS | tel: 54 - 99120-8520 | valor: R$ 97978.58 | ultima compra: 2025-11-03 | potencial: MICRO EMPRESA
+- 20. LATICINIOS AURIVERDE LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 68942.34 | ultima compra: 2025-10-31 | potencial: MEDIO
+- 21. CARLOS TOSHIRO SAKASHITA | JALES/SP | tel: 17 - 3621-2253 | valor: R$ 29393.31 | ultima compra: 2025-10-31 | potencial: DEMAIS
+- 22. OLIMPIO FRANCISCO ROCHA MACIEL | /GO | tel: +55 14 3402-8484 | valor: R$ 21755.82 | ultima compra: 2025-10-30 | potencial: MEDIO
+- 23. SAO PEDRO MASSAS ALIMENTICIAS LTDA | PIRACICABA/SP | tel: 19 - 99704-5093 | valor: R$ 15306.96 | ultima compra: 2025-10-30 | potencial: MICRO EMPRESA
+- 24. LATICINIOS SABOR DO VALE | NOVO ORIENTE DE MINAS/MG | tel: 33 - 98886-1400 | valor: R$ 9410 | ultima compra: 2025-10-30 | potencial: MICRO EMPRESA
+- 25. LATICINIO ARAGOIANIA | ARAGOIANIA/GO | tel: 62 - 3575-9001 | valor: R$ 67265.55 | ultima compra: 2025-10-29 | potencial: EMPRESA DE PEQUENO PORTE
+- 26. LATICINIOS MUNI LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 28869.98 | ultima compra: 2025-10-29 | potencial: MEDIO
+- 27. AGROINDUSTRIA E COMERCIO SERRA NEGRA LTDA | LIMA DUARTE/MG | tel: 32 - 3281-1634 | valor: R$ 17307.74 | ultima compra: 2025-10-29 | potencial: DEMAIS
+- 28. LATICINIOS FERREIRA | ANGICAL/BA | tel: 77 - 99965-8956 | valor: R$ 25134.92 | ultima compra: 2025-10-27 | potencial: MICRO EMPRESA
+- 29. LATICINIO VALE DO GUAPORE LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 12203.5 | ultima compra: 2025-10-27 | potencial: MEDIO
+- 30. LATICINIO ITAJAI | NOVA CANAA/BA | tel: 73 - 98888-8497 | valor: R$ 67177.1 | ultima compra: 2025-10-24 | potencial: EMPRESA DE PEQUENO PORTE
+
+## Grupo 2 - leads 31 a 60
+- 31. VACUOMATIC MARANHAO | SAO LUIS/MA | tel: 98 - 98520-3036 | valor: R$ 21024.1 | ultima compra: 2025-10-23 | potencial: MICRO EMPRESA
+- 32. LATICINIOS MILK MAR | SEBASTIANOPOLIS DO SUL/SP | tel: 17 - 99731-4025 | valor: R$ 20159 | ultima compra: 2025-10-22 | potencial: MICRO EMPRESA
+- 33. PRIME PORK | SAO JOSE DOS PINHAIS/PR | tel: 41 - 3638-5023 | valor: R$ 57246.92 | ultima compra: 2025-10-21 | potencial: MICRO EMPRESA
+- 34. COOPERATIVA DE PRODUCAO INDUSTRIALIZACAO E COMERCIALIZACAO AGROPECUARIA DOS ASSENTADOS E AGRICULTORES FAMILIARES DA REGIAO NOROESTE DO ESTADO DE | ANDRADINA/SP | tel: 18 - 98121-0693 | valor: R$ 23717.94 | ultima compra: 2025-10-21 | potencial: DEMAIS
+- 35. INDUSTRIA DE LATICINIOS CORONATA LTDA | COROMANDEL/MG | tel: 34 - 3841-1554 | valor: R$ 172800 | ultima compra: 2025-10-17 | potencial: DEMAIS
+- 36. FABRICA DE CONSERVAS DE CARNES SAO LUIZ TAQUARITINGA LTDA | TAQUARITINGA/SP | tel: 16 - 3252-8181 | valor: R$ 60578.98 | ultima compra: 2025-10-17 | potencial: DEMAIS
+- 37. FRIGODASKO | PITANGA/PR | tel: 42 - 3646-1695 | valor: R$ 20800 | ultima compra: 2025-10-16 | potencial: DEMAIS
+- 38. EMPORIO MASSA FINA | POUSO ALTO/MG | tel: 35 - 99153-8444 | valor: R$ 3227.2 | ultima compra: 2025-10-16 | potencial: MICRO EMPRESA
+- 39. LATICINIOS REINO SAUL LTDA | RESENDE/RJ | tel: 24 - 97401-3197 | valor: R$ 37076.1 | ultima compra: 2025-10-15 | potencial: EMPRESA DE PEQUENO PORTE
+- 40. CARANA AGROPASTORIL DO RIO ANAJAS LTDA | PONTA DE PEDRAS/PA | tel: 91 - 3228-0413 | valor: R$ 10717 | ultima compra: 2025-10-14 | potencial: EMPRESA DE PEQUENO PORTE
+- 41. JOIA DO CERRADO DISTRIBUIDORA | PATOS DE MINAS/MG | tel: 34 - 3823-3854 | valor: R$ 7165 | ultima compra: 2025-10-10 | potencial: MICRO EMPRESA
+- 42. LATICINIOS NOVA ALEMANHA | IVOTI/RS | tel: 51 - 2500-4134 | valor: R$ 31228.66 | ultima compra: 2025-10-09 | potencial: EMPRESA DE PEQUENO PORTE
+- 43. INDUSTRIA DE QUEIJOS NATO BOM LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 117260.84 | ultima compra: 2025-10-08 | potencial: MEDIO
+- 44. LATICINIOS SANTA RITA | RITAPOLIS/MG | tel: 32 - 99959-9590 | valor: R$ 80862.6 | ultima compra: 2025-10-08 | potencial: MICRO EMPRESA
+- 45. A. R. C. LOGISTICA E ALIMENTOS LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 140748.65 | ultima compra: 2025-10-06 | potencial: MEDIO
+- 46. CASA DE CARNES BOI BOM | CHAPADAO DO SUL/MS | tel: 67 - 99681-2330 | valor: R$ 10451.2 | ultima compra: 2025-10-03 | potencial: MICRO EMPRESA
+- 47. GA BORSA LATICINIOS LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 42788.12 | ultima compra: 2025-10-02 | potencial: MEDIO
+- 48. PREMIATO INDUSTRIA E COMERCIO DE | /GO | tel: +55 14 3402-8484 | valor: R$ 32370.56 | ultima compra: 2025-10-02 | potencial: MEDIO
+- 49. ANTONIO EDUARDO MENEGUINI LTDA | SEBASTIANOPOLIS DO SUL/SP | tel: 17 - 3837-7132 | valor: R$ 44622.4 | ultima compra: 2025-10-01 | potencial: EMPRESA DE PEQUENO PORTE
+- 50. NATURANATA | OLIMPIA/SP | tel: 17 - 3281-1102 | valor: R$ 25740 | ultima compra: 2025-09-30 | potencial: MICRO EMPRESA
+- 51. FABRICA DE CONSERVAS DE CARNES EMA | TAQUARITINGA/SP | tel: 16 - 3252-2672 | valor: R$ 25390 | ultima compra: 2025-09-26 | potencial: MICRO EMPRESA
+- 52. IMBALE EMBALAGENS LTDA | SAO JOSE DO RIO PRETO/SP | tel: 34 - 3428-2319 | valor: R$ 15503.95 | ultima compra: 2025-09-26 | potencial: MICRO EMPRESA
+- 53. PEIXES MEGG'S PESCADOS LTDA | SAO JOAO DA BOA VISTA/SP | tel: 19 - 3633-1200 | valor: R$ 3192.67 | ultima compra: 2025-09-26 | potencial: DEMAIS
+- 54. CONNECT PACK | SAO PAULO/SP | tel: 11 - 99965-1434 | valor: R$ 153600.33 | ultima compra: 2025-09-25 | potencial: EMPRESA DE PEQUENO PORTE
+- 55. A. R. C. LOGISTICA E ALIMENTOS LTDA (2) | /GO | tel: +55 14 3402-8484 | valor: R$ 19158.72 | ultima compra: 2025-09-25 | potencial: MEDIO
+- 56. DALAC LACTEOS & CIA | CALDAS NOVAS/GO | tel: 64 - 3454-1002 | valor: R$ 88082.01 | ultima compra: 2025-09-19 | potencial: MICRO EMPRESA
+- 57. SABOR DO CAMPO | IVINHEMA/MS | tel: 67 - 99627-4068 | valor: R$ 22958 | ultima compra: 2025-09-16 | potencial: MICRO EMPRESA
+- 58. DELEI'T - INDUSTRIA E COMERCIO DE LATICINIOS | PEROBAL/PR | tel: 44 - 99177-7519 | valor: R$ 97072 | ultima compra: 2025-09-15 | potencial: MICRO EMPRESA
+- 59. FRIGORIFICO SCOZ LTDA | RIO DO SUL/SC | tel: 47 - 3521-2924 | valor: R$ 37454.23 | ultima compra: 2025-09-15 | potencial: DEMAIS
+- 60. LATICINIO SANTA MONICA | PACAJA/PA | tel: 91 - 99198-0245 | valor: R$ 32311.4 | ultima compra: 2025-09-11 | potencial: MICRO EMPRESA
+
+## Grupo 3 - leads 61 a 90
+- 61. SUINCO - COOPERATIVA DE SUINOCULTORES LTDA | PATOS DE MINAS/MG | tel: 34 - 3826-1200 | valor: R$ 18212.65 | ultima compra: 2025-09-04 | potencial: DEMAIS
+- 62. ARAGUAIA ATACADISTA DE LEITE E | /GO | tel: +55 14 3402-8484 | valor: R$ 33480.72 | ultima compra: 2025-08-28 | potencial: MEDIO
+- 63. 51.360.096 FERNANDA ALVES DOS SANTOS DANTAS | ITAMARAJU/BA | tel: 73 - 99951-7441 | valor: R$ 3430 | ultima compra: 2025-08-27 | potencial: MICRO EMPRESA
+- 64. BMG FOODS IMPORTACAO E EXPORTACAO LTDA | CAJURU/SP | tel: 11 - 98242-9903 | valor: R$ 13103.75 | ultima compra: 2025-08-26 | potencial: DEMAIS
+- 65. LATICINIOS FLORESBELA | EMILIANOPOLIS/SP | tel: 19 - 99316-2233 | valor: R$ 28324 | ultima compra: 2025-08-25 | potencial: MICRO EMPRESA
+- 66. LATICINIO RQA | CANARANA/MT | tel: 66 - 99910-9894 | valor: R$ 6347.5 | ultima compra: 2025-08-21 | potencial: MICRO EMPRESA
+- 67. GRANLEITE | PITANGA/PR | tel: 42 - 3646-5654 | valor: R$ 55183.8 | ultima compra: 2025-08-19 | potencial: EMPRESA DE PEQUENO PORTE
+- 68. LATICINIOS NUTRILEITE INDUSTRIA E | /GO | tel: +55 14 3402-8484 | valor: R$ 2794.5 | ultima compra: 2025-08-18 | potencial: MEDIO
+- 69. NO PONTO FOODS | CORONEL VIVIDA/PR | tel: 46 - 98406-8804 | valor: R$ 34166.18 | ultima compra: 2025-08-15 | potencial: DEMAIS
+- 70. LEITE CENTRAL | FORMOSA DO OESTE/PR | tel: 44 - 99898-1682 | valor: R$ 17018.2 | ultima compra: 2025-08-14 | potencial: MICRO EMPRESA
+- 71. CAICO EMBALAGENS | MOSSORO/RN | tel: 84 - 98793-6432 | valor: R$ 4224 | ultima compra: 2025-08-14 | potencial: MICRO EMPRESA
+- 72. BAZU SAUSAGE | AMAMBAI/GO | tel: 67 9679-7929 | valor: R$ 446 | ultima compra: 2025-08-14 | potencial: MICRO EMPRESA
+- 73. GIGLIOTTI & REZENDE LTDA | JAU/SP | tel: 14 - 997732499 | valor: R$ 14800 | ultima compra: 2025-08-13 | potencial: MEDIO
+- 74. PAULO ROBERTO NOGUEIRA MONTE ALTO | MONTE ALTO/SP | tel: 16 - 3242-6352 | valor: R$ 4431.6 | ultima compra: 2025-08-13 | potencial: MICRO EMPRESA
+- 75. NOVA INDIANA | SAO SEBASTIAO DO RIO VERDE/MG | tel: 35 - 3364-1133 | valor: R$ 13015 | ultima compra: 2025-08-11 | potencial: EMPRESA DE PEQUENO PORTE
+- 76. CONLEITE LTDA | VITORIA DA CONQUISTA/BA | tel: 77 -  3424-2285 | valor: R$ 80230 | ultima compra: 2025-08-06 | potencial: MICRO EMPRESA
+- 77. MENDONCA & MENDONCA COMERCIO DE CARNES LTDA | NOVO HORIZONTE/SP | tel: 17 - 3542-1874 | valor: R$ 7625.16 | ultima compra: 2025-08-06 | potencial: MICRO EMPRESA
+- 78. FRIGORIFICO SUIBA | PARAISO/SP | tel: 17 - 3567-9090 | valor: R$ 70587.4 | ultima compra: 2025-08-01 | potencial: EMPRESA DE PEQUENO PORTE
+- 79. W. R. W. B. RIO PRETO ALIMENTOS LTDA | SAO JOSE DO RIO PRETO/SP | tel: 17 - 3212-3991 | valor: R$ 50960 | ultima compra: 2025-07-31 | potencial: MICRO EMPRESA
+- 80. MORGAN CHARCUTARIA | VERA CRUZ DO OESTE/PR | tel: 45 - 99993-3149 | valor: R$ 12564 | ultima compra: 2025-07-30 | potencial: MICRO EMPRESA
+- 81. QUEIJARIA CASQUINHA | CRUZEIRO DA FORTALEZA/MG | tel: 34 - 99961-2860 | valor: R$ 8960 | ultima compra: 2025-07-30 | potencial: EMPRESA DE PEQUENO PORTE
+- 82. FRIGORIFICO IRMAOS NUZDA | CASTRO/PR | tel: 42 - 3233-1469 | valor: R$ 4767.3 | ultima compra: 2025-07-29 | potencial: EMPRESA DE PEQUENO PORTE
+- 83. LAKI BELA INDUSTRIA DE LATICINIOS LTDA | TENENTE PORTELA/RS | tel: 55 - 996607998 | valor: R$ 66013.2 | ultima compra: 2025-07-25 | potencial: MICRO EMPRESA
+- 84. D'CASA ALIMENTOS E/F LTDA | ARAXA/MG | tel: 34 - 99125-9813 | valor: R$ 12212.16 | ultima compra: 2025-07-24 | potencial: MICRO EMPRESA
+- 85. QUEIJOS CAPITOLIO | PIUI/MG | tel: 37 -  3371-4262 | valor: R$ 16458 | ultima compra: 2025-07-18 | potencial: MICRO EMPRESA
+- 86. LATICINIO DO BICO LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 109437.37 | ultima compra: 2025-07-17 | potencial: MEDIO
+- 87. LATICINIO NUNES | IPIRA/BA | tel: 75 - 99126-1491 | valor: R$ 14632.17 | ultima compra: 2025-07-16 | potencial: MICRO EMPRESA
+- 88. SAZA ALIMENTOS | CANAA DOS CARAJAS/PA | tel: 94 - 99184-6591 | valor: R$ 7156.72 | ultima compra: 2025-07-16 | potencial: EMPRESA DE PEQUENO PORTE
+- 89. SANDRA DE SOUZA P BARRETO | PEREIRA BARRETO/SP | tel: 18 - 99122-4603 | valor: R$ 4035.6 | ultima compra: 2025-07-14 | potencial: MICRO EMPRESA
+- 90. LATICINIO ALTO ALEGRE | VERE/PR | tel: - 4635352222 | valor: R$ 14950 | ultima compra: 2025-07-11 | potencial: DEMAIS
+
+## Grupo 4 - leads 91 a 120
+- 91. FRIARI ALIMENTOS | ARAGUARI/MG | tel: 34 - 991711949 | valor: R$ 15880 | ultima compra: 2025-07-10 | potencial: DEMAIS
+- 92. LACTICINIOS SAO MIGUEL | SAO PAULO/GO | tel: 19 99601-9967 | valor: R$ 99694.2 | ultima compra: 2025-07-08 | potencial: DEMAIS
+- 93. CARLOS RODRIGO DOS SANTOS & CIA LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 48264.82 | ultima compra: 2025-07-08 | potencial: MEDIO
+- 94. SANTO ANTONIO COMERCIO DE EMBALAGENS LTDA | NITEROI/RJ | tel: 21 - 98103-5715 | valor: R$ 118920.3 | ultima compra: 2025-07-02 | potencial: MICRO EMPRESA
+- 95. FRIGORIFICO WEBER LTDA | BRAÇO DO NORTE/SC | tel: 48 - 36584257 | valor: R$ 5719.5 | ultima compra: 2025-06-30 | potencial: DEMAIS
+- 96. DE CICCO NATURAIS | TAUBATE/SP | tel: 12 - 3432-7590 | valor: R$ 5028 | ultima compra: 2025-06-26 | potencial: MICRO EMPRESA
+- 97. FRIOSUL | XINGUARA/PA | tel: 94 - 99294-0667 | valor: R$ 20344.35 | ultima compra: 2025-06-25 | potencial: EMPRESA DE PEQUENO PORTE
+- 98. LATICINIOS BODOCO | BODOCO/PE | tel: 87 - 3878-1399 | valor: R$ 35796.4 | ultima compra: 2025-06-20 | potencial: EMPRESA DE PEQUENO PORTE
+- 99. LATICINIOS TONTINI | BRASIL NOVO/PA | tel: 93 - 99134-0646 | valor: R$ 10834.5 | ultima compra: 2025-06-20 | potencial: MICRO EMPRESA
+- 100. LATICINIO PALITECO | MALACACHETA/MG | tel: 31 - 3653-2554 | valor: R$ 6600 | ultima compra: 2025-06-20 | potencial: DEMAIS
+- 101. FABRICA DE EMBUTIDOS TERNOVSKI | IMBITUVA/PR | tel: 42 - 3436-1380 | valor: R$ 9272.85 | ultima compra: 2025-06-18 | potencial: MICRO EMPRESA
+- 102. LATICINIO LACTOPAR | LARANJEIRAS DO SUL/PR | tel: 42 - 3635-2834 | valor: R$ 30070 | ultima compra: 2025-06-17 | potencial: DEMAIS
+- 103. LATICINIO SANTA CECILIA | LOBATO/PR | tel: 44 - 99929-2176 | valor: R$ 9550.8 | ultima compra: 2025-06-17 | potencial: MICRO EMPRESA
+- 104. ALIMENTOS KROC KROC | CARATINGA/MG | tel: 33 - 98812-9652 | valor: R$ 5343.22 | ultima compra: 2025-06-11 | potencial: MICRO EMPRESA
+- 105. LATICINIOS LACTOMIL | SERRANOPOLIS DO IGUAÇU/PR | tel: 45 - 3236-1032 | valor: R$ 3250 | ultima compra: 2025-06-11 | potencial: DEMAIS
+- 106. BRAULIO BENEDITO DE FARIA E OUTRA | SOCORRO/SP | tel: 19 - 3855-3322 | valor: R$ 6722 | ultima compra: 2025-06-04 | potencial: DEMAIS
+- 107. LATICINIO OURO BRANCO | LARANJAL DO JARI/AP | tel: 37 - 99957-5800 | valor: R$ 3480 | ultima compra: 2025-06-02 | potencial: MICRO EMPRESA
+- 108. LACTO SERRA | BREJOLANDIA/BA | tel: 77 - 999964229 | valor: R$ 10359.8 | ultima compra: 2025-05-30 | potencial: EMPRESA DE PEQUENO PORTE
+- 109. DONA CLARA NAVARRO LATICINIOS | ITIUBA/BA | tel: 88 - 99911-5878 | valor: R$ 52721.25 | ultima compra: 2025-05-29 | potencial: DEMAIS
+- 110. GILSON CARDOSO ARAUJO | /GO | tel: +55 14 3402-8484 | valor: R$ 23045.42 | ultima compra: 2025-05-29 | potencial: MEDIO
+- 111. MINAS MAIS LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 45395.11 | ultima compra: 2025-05-23 | potencial: MEDIO
+- 112. NEW CASING | PASSO FUNDO/RS | tel: 54 - 36220501 | valor: R$ 15224.52 | ultima compra: 2025-05-19 | potencial: DEMAIS
+- 113. SALUMERIA TEBALDI LTDA | CASCA/RS | tel: 54 - 99977-0940 | valor: R$ 22830.48 | ultima compra: 2025-05-14 | potencial: EMPRESA DE PEQUENO PORTE
+- 114. EMBALAGENS PPP | ERECHIM/RS | tel: 54 - 3522-9195 | valor: R$ 3244.5 | ultima compra: 2025-05-14 | potencial: MICRO EMPRESA
+- 115. LATICINIO LABOR | PARANAIBA/MS | tel: 67 - 98134-9212 | valor: R$ 17668.6 | ultima compra: 2025-04-17 | potencial: MICRO EMPRESA
+- 116. PANATTOS ALIMENTOS LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 38574.54 | ultima compra: 2025-04-16 | potencial: MEDIO
+- 117. KRETZER CONCEITO EM CARNES | FLORIANOPOLIS/SC | tel: 48 - 3222-9744 | valor: R$ 6363.84 | ultima compra: 2025-04-16 | potencial: EMPRESA DE PEQUENO PORTE
+- 118. MAURO VIEIRA PERES E OUTRA | PALMEIRA D OESTE/SP | tel: 17 - 3695-1108 | valor: R$ 7374.2 | ultima compra: 2025-04-11 | potencial: DEMAIS
+- 119. SADELLE ALIMENTOS LTDA | /GO | tel: +55 14 3402-8484 | valor: R$ 29023.5 | ultima compra: 2025-04-09 | potencial: MEDIO
+- 120. LATICINIOS DAKI | MONTE CARMELO/MG | tel: 34 - 99107-7065 | valor: R$ 11901 | ultima compra: 2025-04-03 | potencial: EMPRESA DE PEQUENO PORTE
+

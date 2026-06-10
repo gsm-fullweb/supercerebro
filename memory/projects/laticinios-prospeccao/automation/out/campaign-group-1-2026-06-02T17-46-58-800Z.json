@@ -1,0 +1,513 @@
+{
+  "mode": "dry-run",
+  "createdAt": "2026-06-02T17:46:58.800Z",
+  "group": 1,
+  "totalLeads": 30,
+  "campaignPayload": {
+    "name": "Laticinios - 7 dias gratis - Grupo 1 - 2026-06-02",
+    "description": "Campanha controlada de 30 leads/dia. Abordagem consultiva, sem mencionar Newvac.",
+    "sourceType": "csv",
+    "sourceConfig": {
+      "origin": "supabase_clients",
+      "group": 1,
+      "limit": 30,
+      "businessWindow": {
+        "start": "08:00",
+        "end": "18:00",
+        "timezone": "America/Sao_Paulo"
+      },
+      "identity": {
+        "senderEmail": "suporte@fullweb.com.br",
+        "emailInboxId": 174,
+        "emailLabel": "Email Fullweb",
+        "whatsappInboxId": 194,
+        "whatsappLabel": "Rafael",
+        "whatsappNumber": "+55 11 95558-5460"
+      },
+      "email": {
+        "subject": "7 dias gratis para organizar pedidos do seu laticinio no WhatsApp",
+        "body": "Ola, tudo bem?\n\nSou Richard Portela. Trabalho com automacao comercial e organizacao de atendimento pelo WhatsApp para empresas de alimentos e laticinios.\n\nEstou liberando para alguns laticinios um teste de 7 dias do ChatHook para organizar pedidos, entregas, cobrancas e recompra em um funil simples.\n\nA ideia e ajudar sua equipe a nao perder pedidos no WhatsApp e lembrar automaticamente quem precisa de retorno.\n\nPosso te enviar um exemplo pratico de como ficaria esse funil?\n\nRichard Portela\nChatHook - WhatsApp organizado como CRM comercial"
+      }
+    },
+    "inboxIds": [
+      194
+    ],
+    "rotationMode": "round_robin",
+    "delayMinSeconds": 180,
+    "delayMaxSeconds": 420,
+    "pauseEveryN": 10,
+    "pauseForSeconds": 1800,
+    "windowStart": "08:00",
+    "windowEnd": "18:00",
+    "allowedDays": [
+      "mon",
+      "tue",
+      "wed",
+      "thu",
+      "fri"
+    ],
+    "followUpEnabled": true,
+    "followUpConfig": {
+      "waitHours": 24,
+      "maxAttempts": 1,
+      "messages": [
+        "Passando só para reforçar: posso te mostrar um exemplo simples de como organizar os pedidos do laticínio pelo WhatsApp em 7 dias sem custo?"
+      ]
+    },
+    "enableSpintax": false,
+    "metadata": {
+      "senderEmail": "suporte@fullweb.com.br",
+      "emailInboxId": 174,
+      "emailLabel": "Email Fullweb",
+      "whatsappLabel": "Rafael",
+      "whatsappNumber": "+55 11 95558-5460"
+    },
+    "messages": [
+      {
+        "type": "text",
+        "content": "Olá, tudo bem? Sou Richard Portela. Estou oferecendo para alguns laticínios um teste de 7 dias do ChatHook para organizar pedidos, clientes, cobrança e recompra pelo WhatsApp. A ideia é simples: separar pedidos, entregas, cobranças e recompra em um funil. Posso te mandar um exemplo prático?"
+      }
+    ]
+  },
+  "contactsPreview": [
+    {
+      "phone": "551532794004",
+      "name": "BASLEITE",
+      "extraData": {
+        "empresa": "BASLEITE",
+        "cidade": "ITAPETININGA",
+        "estado": "SP",
+        "valor": 19585,
+        "ultima_compra": "2025-11-21",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5533999491452",
+      "name": "LATICINIOS SABOR DO CAMPO LTDA",
+      "extraData": {
+        "empresa": "LATICINIOS SABOR DO CAMPO LTDA",
+        "cidade": "POTE",
+        "estado": "MG",
+        "valor": 29700,
+        "ultima_compra": "2025-11-19",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "553432495250",
+      "name": "ARALAT",
+      "extraData": {
+        "empresa": "ARALAT",
+        "cidade": "ARAGUARI",
+        "estado": "MG",
+        "valor": 58750,
+        "ultima_compra": "2025-11-18",
+        "potencial": "EMPRESA DE PEQUENO PORTE",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551938314085",
+      "name": "LATICINIOS DA COSTA E PELISSARI LTDA",
+      "extraData": {
+        "empresa": "LATICINIOS DA COSTA E PELISSARI LTDA",
+        "cidade": "MOGI GUAÇU",
+        "estado": "SP",
+        "valor": 34457,
+        "ultima_compra": "2025-11-18",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5566992485319",
+      "name": "COMOV",
+      "extraData": {
+        "empresa": "COMOV",
+        "cidade": "ALTA FLORESTA",
+        "estado": "MT",
+        "valor": 241138,
+        "ultima_compra": "2025-11-18",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "553534241443",
+      "name": "BELO MINAS",
+      "extraData": {
+        "empresa": "BELO MINAS",
+        "cidade": "SAO SEBASTIAO DA BELA VISTA",
+        "estado": "MG",
+        "valor": 83589397,
+        "ultima_compra": "2025-11-17",
+        "potencial": "EMPRESA DE PEQUENO PORTE",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "556436711129",
+      "name": "LATICINIOS MONTES BELOS",
+      "extraData": {
+        "empresa": "LATICINIOS MONTES BELOS",
+        "cidade": "SAO LUIS DE MONTES BELOS",
+        "estado": "GO",
+        "valor": 412474,
+        "ultima_compra": "2025-11-17",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "553836798912",
+      "name": "COOPERVAP",
+      "extraData": {
+        "empresa": "COOPERVAP",
+        "cidade": "PARACATU",
+        "estado": "MG",
+        "valor": 85720,
+        "ultima_compra": "2025-11-11",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "553332311467",
+      "name": "LATICINIO CASSIMIRO",
+      "extraData": {
+        "empresa": "LATICINIO CASSIMIRO",
+        "cidade": "ITANHOMI",
+        "estado": "MG",
+        "valor": 471048,
+        "ultima_compra": "2025-11-11",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5533999623672",
+      "name": "SILMAR",
+      "extraData": {
+        "empresa": "SILMAR",
+        "cidade": "ITANHOMI",
+        "estado": "MG",
+        "valor": 3191806,
+        "ultima_compra": "2025-11-11",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5554991208520",
+      "name": "LATICINIOS ITALY",
+      "extraData": {
+        "empresa": "LATICINIOS ITALY",
+        "cidade": "RONDINHA",
+        "estado": "RS",
+        "valor": 9797858,
+        "ultima_compra": "2025-11-03",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551434028484",
+      "name": "LATICINIOS AURIVERDE LTDA",
+      "extraData": {
+        "empresa": "LATICINIOS AURIVERDE LTDA",
+        "cidade": "",
+        "estado": "GO",
+        "valor": 6894234,
+        "ultima_compra": "2025-10-31",
+        "potencial": "MEDIO",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5533988861400",
+      "name": "LATICINIOS SABOR DO VALE",
+      "extraData": {
+        "empresa": "LATICINIOS SABOR DO VALE",
+        "cidade": "NOVO ORIENTE DE MINAS",
+        "estado": "MG",
+        "valor": 9410,
+        "ultima_compra": "2025-10-30",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "556235759001",
+      "name": "LATICINIO ARAGOIANIA",
+      "extraData": {
+        "empresa": "LATICINIO ARAGOIANIA",
+        "cidade": "ARAGOIANIA",
+        "estado": "GO",
+        "valor": 6726555,
+        "ultima_compra": "2025-10-29",
+        "potencial": "EMPRESA DE PEQUENO PORTE",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551434028484",
+      "name": "LATICINIOS MUNI LTDA",
+      "extraData": {
+        "empresa": "LATICINIOS MUNI LTDA",
+        "cidade": "",
+        "estado": "GO",
+        "valor": 2886998,
+        "ultima_compra": "2025-10-29",
+        "potencial": "MEDIO",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "553232811634",
+      "name": "AGROINDUSTRIA E COMERCIO SERRA NEGRA LTDA",
+      "extraData": {
+        "empresa": "AGROINDUSTRIA E COMERCIO SERRA NEGRA LTDA",
+        "cidade": "LIMA DUARTE",
+        "estado": "MG",
+        "valor": 1730774,
+        "ultima_compra": "2025-10-29",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5577999658956",
+      "name": "LATICINIOS FERREIRA",
+      "extraData": {
+        "empresa": "LATICINIOS FERREIRA",
+        "cidade": "ANGICAL",
+        "estado": "BA",
+        "valor": 2513492,
+        "ultima_compra": "2025-10-27",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551434028484",
+      "name": "LATICINIO VALE DO GUAPORE LTDA",
+      "extraData": {
+        "empresa": "LATICINIO VALE DO GUAPORE LTDA",
+        "cidade": "",
+        "estado": "GO",
+        "valor": 122035,
+        "ultima_compra": "2025-10-27",
+        "potencial": "MEDIO",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5573988888497",
+      "name": "LATICINIO ITAJAI",
+      "extraData": {
+        "empresa": "LATICINIO ITAJAI",
+        "cidade": "NOVA CANAA",
+        "estado": "BA",
+        "valor": 671771,
+        "ultima_compra": "2025-10-24",
+        "potencial": "EMPRESA DE PEQUENO PORTE",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5517997314025",
+      "name": "LATICINIOS MILK MAR",
+      "extraData": {
+        "empresa": "LATICINIOS MILK MAR",
+        "cidade": "SEBASTIANOPOLIS DO SUL",
+        "estado": "SP",
+        "valor": 20159,
+        "ultima_compra": "2025-10-22",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "553438411554",
+      "name": "INDUSTRIA DE LATICINIOS CORONATA LTDA",
+      "extraData": {
+        "empresa": "INDUSTRIA DE LATICINIOS CORONATA LTDA",
+        "cidade": "COROMANDEL",
+        "estado": "MG",
+        "valor": 172800,
+        "ultima_compra": "2025-10-17",
+        "potencial": "DEMAIS",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5535991538444",
+      "name": "EMPORIO MASSA FINA",
+      "extraData": {
+        "empresa": "EMPORIO MASSA FINA",
+        "cidade": "POUSO ALTO",
+        "estado": "MG",
+        "valor": 32272,
+        "ultima_compra": "2025-10-16",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5524974013197",
+      "name": "LATICINIOS REINO SAUL LTDA",
+      "extraData": {
+        "empresa": "LATICINIOS REINO SAUL LTDA",
+        "cidade": "RESENDE",
+        "estado": "RJ",
+        "valor": 370761,
+        "ultima_compra": "2025-10-15",
+        "potencial": "EMPRESA DE PEQUENO PORTE",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "553438233854",
+      "name": "JOIA DO CERRADO DISTRIBUIDORA",
+      "extraData": {
+        "empresa": "JOIA DO CERRADO DISTRIBUIDORA",
+        "cidade": "PATOS DE MINAS",
+        "estado": "MG",
+        "valor": 7165,
+        "ultima_compra": "2025-10-10",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "555125004134",
+      "name": "LATICINIOS NOVA ALEMANHA",
+      "extraData": {
+        "empresa": "LATICINIOS NOVA ALEMANHA",
+        "cidade": "IVOTI",
+        "estado": "RS",
+        "valor": 3122866,
+        "ultima_compra": "2025-10-09",
+        "potencial": "EMPRESA DE PEQUENO PORTE",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551434028484",
+      "name": "INDUSTRIA DE QUEIJOS NATO BOM LTDA",
+      "extraData": {
+        "empresa": "INDUSTRIA DE QUEIJOS NATO BOM LTDA",
+        "cidade": "",
+        "estado": "GO",
+        "valor": 11726084,
+        "ultima_compra": "2025-10-08",
+        "potencial": "MEDIO",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "5532999599590",
+      "name": "LATICINIOS SANTA RITA",
+      "extraData": {
+        "empresa": "LATICINIOS SANTA RITA",
+        "cidade": "RITAPOLIS",
+        "estado": "MG",
+        "valor": 808626,
+        "ultima_compra": "2025-10-08",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551434028484",
+      "name": "GA BORSA LATICINIOS LTDA",
+      "extraData": {
+        "empresa": "GA BORSA LATICINIOS LTDA",
+        "cidade": "",
+        "estado": "GO",
+        "valor": 4278812,
+        "ultima_compra": "2025-10-02",
+        "potencial": "MEDIO",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551738377132",
+      "name": "ANTONIO EDUARDO MENEGUINI LTDA",
+      "extraData": {
+        "empresa": "ANTONIO EDUARDO MENEGUINI LTDA",
+        "cidade": "SEBASTIANOPOLIS DO SUL",
+        "estado": "SP",
+        "valor": 446224,
+        "ultima_compra": "2025-10-01",
+        "potencial": "EMPRESA DE PEQUENO PORTE",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    },
+    {
+      "phone": "551732811102",
+      "name": "NATURANATA",
+      "extraData": {
+        "empresa": "NATURANATA",
+        "cidade": "OLIMPIA",
+        "estado": "SP",
+        "valor": 25740,
+        "ultima_compra": "2025-09-30",
+        "potencial": "MICRO EMPRESA",
+        "grupo": 1,
+        "origem": "campanha_laticinios_7dias"
+      }
+    }
+  ],
+  "safety": {
+    "dailyLimit": 30,
+    "senderEmail": "suporte@fullweb.com.br",
+    "emailInboxId": 174,
+    "emailLabel": "Email Fullweb",
+    "emailFirst": true,
+    "whatsappInboxId": 194,
+    "whatsappLabel": "Rafael",
+    "whatsappNumber": "+55 11 95558-5460",
+    "window": "08:00-18:00",
+    "timezone": "America/Sao_Paulo",
+    "days": "mon-fri",
+    "pauseEveryN": 10,
+    "pauseForSeconds": 1800,
+    "followUpAfterHours": 24,
+    "maxFollowUpAttempts": 1,
+    "stopOnReply": true,
+    "blacklistSupportedByChatHook": true
+  }
+}

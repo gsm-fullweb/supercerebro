@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "socket": {},
+  "defaults": {
+    "security": "full",
+    "ask": "off",
+    "askFallback": "full"
+  },
+  "agents": {}
+}
