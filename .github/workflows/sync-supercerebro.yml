@@ -1,0 +1,47 @@
+name: Sync Obsidian to Legacy Paths
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Clientes/**'
+      - 'Projetos/**'
+      - 'Agentes/**'
+      - 'SOPs/**'
+      - 'Documentação/**'
+      - 'SuperCerebro/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Sync Files
+        run: |
+          # Ensure directories exist
+          mkdir -p projects memory logs
+          
+          # Sync Client & Agent definitions
+          cp Clientes/businesses.md businesses.md || true
+          cp Agentes/AGENTS.md AGENTS.md || true
+          cp SOPs/seo-workflow.md seo-workflow.md || true
+          
+          # Sync Projects
+          cp "Projetos/Care Connect/careconnect.md" projects/careconnect.md || true
+          cp "Projetos/ChatHook/chathook-zapcode.md" projects/chathook-zapcode.md || true
+          cp Projetos/unixpack.md projects/unixpack.md || true
+          cp Projetos/voz-de-deus.md projects/voz-de-deus.md || true
+          
+          # Sync Team Memory & Logs
+          cp Documentação/global.md memory/global.md || true
+          cp Documentação/rules.md memory/rules.md || true
+          cp SuperCerebro/logs/diario.md logs/diario.md || true
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "SuperCerebro Bot"
+          git config --global user.email "bot@fullweb.com"
+          git add businesses.md AGENTS.md seo-workflow.md projects/ memory/ logs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-sync Obsidian changes to legacy paths" && git push)
