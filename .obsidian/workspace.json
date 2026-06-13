@@ -197,6 +197,12 @@
   },
   "active": "217a6b9a30968b2f",
   "lastOpenFiles": [
+    "Templates/KPI Template.md",
+    "Templates/Reunião Template.md",
+    "Templates/Agente Template.md",
+    "Templates/Projeto Template.md",
+    "Templates/Cliente Template.md",
+    "Templates",
     "seo-workflow.md",
     "scripts/registrar-log.md",
     "scripts",
@@ -222,18 +228,12 @@
     "Projetos/unixpack.md",
     "Projetos/fullweb.md",
     "Projetos/chathook-zapcode.md",
-    "Projetos/careconnect.md",
-    "Projetos/ChatHook/chathook-zapcode.md",
-    "Projetos/Care Connect/careconnect.md",
     "SuperCerebro",
     "Sem título",
-    "Clientes/Fullweb/Funcionamento - fullweb.md",
-    "Clientes/Fullweb/Fullweb — Instruções do Agente.md",
     "Sem título 1.canvas",
     "Sem título.base",
     "Sem título.canvas",
     "Projetos/Plataformas",
-    "Projetos/ChatHook",
-    "Projetos/Care Connect"
+    "Projetos/ChatHook"
   ]
 }
