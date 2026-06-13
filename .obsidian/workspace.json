@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f9db6c438a852135",
+    "type": "split",
+    "children": [
+      {
+        "id": "c679d8ef6831eca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7e342b6186aae02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "217a6b9a30968b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clientes/Fullweb/Fullweb — Instruções do Agente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fullweb — Instruções do Agente"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fd09bde25d8563d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ce94533ca698fa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e6c4a94f594452",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "71836149f7f33294",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6284a4a68a589323",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "edc03ead75e62281",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7ce6c49a19bb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea819d042cc96786",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clientes/Fullweb/Fullweb — Instruções do Agente.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Fullweb — Instruções do Agente"
+            }
+          },
+          {
+            "id": "54f2fe6e94d94b30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clientes/Fullweb/Fullweb — Instruções do Agente.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Fullweb — Instruções do Agente"
+            }
+          },
+          {
+            "id": "9ee8d43a621be4da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ca8efc58fff16628",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "2701d204494b351b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clientes/Fullweb/Fullweb — Instruções do Agente.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Fullweb — Instruções do Agente"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "217a6b9a30968b2f",
+  "lastOpenFiles": [
+    "Clientes/Fullweb/Funcionamento - fullweb.md",
+    "Clientes/Fullweb/Fullweb — Instruções do Agente.md",
+    "Clientes/Metodo Segurança do trabalho/Funcionamento - Metodo.md",
+    "Clientes/CareConnect/Funcionamento - CareConnect.md",
+    "Clientes ativos.md",
+    "Untitled Kanban.md",
+    "2026-06-13.md",
+    "Sem título 1.canvas",
+    "Dashboard.md",
+    "Sem título.base",
+    "Sem título.canvas",
+    "Bem-vindo.md",
+    "Projetos/Plataformas",
+    "Projetos/ChatHook",
+    "Projetos/Care Connect",
+    "Projetos/Cliente Embaixador Disk",
+    "SEO MGI",
+    "Agentes/Atlas",
+    "Agentes/Hermes",
+    "Agentes/Charli",
+    "Clientes/MGI"
+  ]
+}
