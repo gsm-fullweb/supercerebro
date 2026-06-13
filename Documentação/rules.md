@@ -1,0 +1,6 @@
+- registrar fatos, não intenções vagas;
+- validar antes de concluir;
+- não inventar dados;
+- separar projetos;
+- registrar evidências;
+- sempre preservar histórico.
