@@ -286,3 +286,15 @@ Richard (decisão final)
 | `projects/zapcode.md` | Projetos ZapCode |
 | `projects/careconnect.md` | Produto CareConnect |
 | `logs/diario.md` | Log diário de ações e decisões |
+
+---
+
+## Deepson — continuidade compartilhada (2026-11-06)
+
+Deepson é a evolução comercial B2B do ChatHook. Para qualquer trabalho relativo à Deepson, todos os agentes (Atlas, Hermes, Raptor e agentes de programação Claude Code/Codex/Gemini) devem consultar, nesta ordem:
+
+1. `projects/deepson.md` — visão, decisões, produto, métricas e cliente inicial.
+2. `projects/deepson-tarefas.md` — prioridades, pendências e critérios de entrega.
+3. `logs/diario.md` — resultados reais e histórico das decisões.
+
+Antes de agir, confirmar se o contexto ainda corresponde ao código e ao negócio atuais. Ao finalizar, atualizar tarefas e diário com evidências, sem marcar hipóteses como fatos. As decisões finais são de Richard e Rafael. Acesso aos arquivos depende das permissões GitHub de cada agente; este documento não concede permissões automaticamente.
